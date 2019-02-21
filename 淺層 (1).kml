@@ -1,0 +1,2127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>淺層</name>
+    <description/>
+    <Style id="line-FF0000-1000-normal">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>1</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-1000-highlight">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>1.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF0000-1000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-1000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-1000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>淺部地層</name>
+      <Placemark>
+        <name>SPK_001</name>
+        <description><![CDATA[說明: <br>Id: 1]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.194939,23.841531,0
+            120.2973,24.004005,0
+            120.410353,24.189745,0
+            120.442917,24.247202,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_002</name>
+        <description><![CDATA[說明: <br>Id: 2]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.180112,23.845036,0
+            120.30142,24.035558,0
+            120.356788,24.121086,0
+            120.432746,24.249315,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_003</name>
+        <description><![CDATA[說明: <br>Id: 3]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>3</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.163368,23.843871,0
+            120.272287,24.012488,0
+            120.387295,24.191805,0
+            120.420634,24.248553,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_004</name>
+        <description><![CDATA[說明: <br>Id: 4]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>4</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.147362,23.8488,0
+            120.150038,23.856698,0
+            120.157353,23.870356,0
+            120.174343,23.894815,0
+            120.197901,23.929699,0
+            120.230382,23.974658,0
+            120.279885,24.049075,0
+            120.342988,24.147544,0
+            120.409289,24.251017,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_005</name>
+        <description><![CDATA[說明: <br>Id: 5]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>5</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.126683,23.853343,0
+            120.229849,23.998664,0
+            120.306128,24.103306,0
+            120.309622,24.106905,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_006</name>
+        <description><![CDATA[說明: <br>Id: 6]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>6</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.103275,23.857867,0
+            120.289388,24.094987,0
+            120.369294,24.198181,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_007</name>
+        <description><![CDATA[說明: <br>Id: 7]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>7</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.082993,23.860972,0
+            120.237753,24.047438,0
+            120.318777,24.147438,0
+            120.388646,24.236244,0
+            120.399133,24.249903,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_008</name>
+        <description><![CDATA[說明: <br>Id: 8]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>8</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.069718,23.864834,0
+            120.216353,24.037296,0
+            120.242705,24.067887,0
+            120.303951,24.144863,0
+            120.388964,24.251295,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_009</name>
+        <description><![CDATA[說明: <br>Id: 9]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>9</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.05724,23.866192,0
+            120.143835,23.970258,0
+            120.193002,24.027858,0
+            120.255393,24.100917,0
+            120.343848,24.208466,0
+            120.379192,24.251614,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_010</name>
+        <description><![CDATA[說明: <br>Id: 10]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>10</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.044751,23.868981,0
+            120.169282,24.015548,0
+            120.250644,24.112002,0
+            120.312693,24.189695,0
+            120.365131,24.249764,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_011</name>
+        <description><![CDATA[說明: <br>Id: 11]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>11</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.034626,23.868202,0
+            120.118477,23.971906,0
+            120.179606,24.04857,0
+            120.24314,24.126657,0
+            120.345576,24.252548,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_012</name>
+        <description><![CDATA[說明: <br>Id: 12]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>12</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.020188,23.870977,0
+            120.126453,24.003485,0
+            120.210465,24.106783,0
+            120.284524,24.197448,0
+            120.329943,24.25248,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_013</name>
+        <description><![CDATA[說明: <br>Id: 13]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>13</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.009262,23.873057,0
+            120.071809,23.954072,0
+            120.134859,24.029691,0
+            120.196405,24.107785,0
+            120.261903,24.190891,0
+            120.312343,24.25491,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_014</name>
+        <description><![CDATA[說明: <br>Id: 14]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>14</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.997553,23.87549,0
+            120.098355,24.005472,0
+            120.172263,24.098339,0
+            120.22843,24.170658,0
+            120.295131,24.257698,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_015</name>
+        <description><![CDATA[說明: <br>Id: 15]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>15</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.98934,23.879378,0
+            120.040681,23.945281,0
+            120.119519,24.047878,0
+            120.191137,24.138574,0
+            120.271774,24.241105,0
+            120.284967,24.258009,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_084</name>
+        <description><![CDATA[說明: <br>Id: 84]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>84</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.210887,23.845555,0
+            120.168549,23.851903,0
+            119.979189,23.881819,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_083</name>
+        <description><![CDATA[說明: <br>Id: 83]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>83</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.217777,23.866016,0
+            120.17929,23.868552,0
+            120.157353,23.870356,0
+            120.11756,23.876104,0
+            120.09768,23.878697,0
+            120.056239,23.88252,0
+            119.982646,23.888292,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_082</name>
+        <description><![CDATA[說明: <br>Id: 82]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>82</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.227835,23.878251,0
+            120.187237,23.880866,0
+            120.14918,23.885065,0
+            120.105845,23.888548,0
+            119.990364,23.898017,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_081</name>
+        <description><![CDATA[說明: <br>Id: 81]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>81</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.244921,23.888727,0
+            120.195595,23.893814,0
+            120.114027,23.898419,0
+            120.071858,23.900921,0
+            120.009957,23.905853,0
+            119.898643,23.913871,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_080</name>
+        <description><![CDATA[說明: <br>Id: 80]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>80</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.24995,23.895202,0
+            120.199245,23.899469,0
+            120.140001,23.904743,0
+            120.105978,23.907536,0
+            120.080022,23.910536,0
+            119.999969,23.915997,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_079</name>
+        <description><![CDATA[說明: <br>Id: 79]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>79</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.253433,23.899519,0
+            120.004177,23.926416,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_078</name>
+        <description><![CDATA[說明: <br>Id: 78]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>78</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.254153,23.909915,0
+            120.17292,23.91852,0
+            120.134545,23.923161,0
+            120.093775,23.92673,0
+            120.054093,23.931139,0
+            119.949079,23.94289,0
+            119.835138,23.954251,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_076</name>
+        <description><![CDATA[說明: <br>Id: 76]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>76</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.267634,23.938647,0
+            120.20765,23.943197,0
+            120.15445,23.947153,0
+            120.085856,23.952902,0
+            119.962572,23.961973,0
+            119.791283,23.974335,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_077</name>
+        <description><![CDATA[說明: <br>Id: 77]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>77</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.224432,23.926252,0
+            120.143191,23.933584,0
+            120.040681,23.945281,0
+            119.801117,23.965096,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_074</name>
+        <description><![CDATA[說明: <br>Id: 74]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>74</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.296755,23.960642,0
+            120.223261,23.964805,0
+            120.17158,23.967791,0
+            120.130912,23.970433,0
+            120.062789,23.974072,0
+            119.976083,23.979263,0
+            119.917557,23.982803,0
+            119.838351,23.98724,0
+            119.741197,23.992206,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_073</name>
+        <description><![CDATA[說明: <br>Id: 73]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>73</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.301764,23.971774,0
+            120.247448,23.974079,0
+            120.196088,23.976251,0
+            120.151161,23.978844,0
+            120.108904,23.981626,0
+            120.069927,23.983363,0
+            119.983034,23.987909,0
+            119.733303,24.001815,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_072</name>
+        <description><![CDATA[說明: <br>Id: 72]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>72</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.305622,23.979675,0
+            120.283308,23.981823,0
+            120.236497,23.983856,0
+            120.159469,23.988581,0
+            120.077117,23.992722,0
+            119.694957,24.014034,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_071</name>
+        <description><![CDATA[說明: <br>Id: 71]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>71</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.312958,23.993684,0
+            120.29122,23.994367,0
+            120.275522,23.994936,0
+            120.261386,23.995635,0
+            120.157394,24.001575,0
+            120.113175,24.003697,0
+            119.93564,24.01267,0
+            119.671821,24.026017,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_070</name>
+        <description><![CDATA[說明: <br>Id: 70]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>70</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.327706,24.007725,0
+            120.224608,24.012574,0
+            120.169282,24.015548,0
+            120.136907,24.016351,0
+            120.096235,24.017597,0
+            120.00657,24.021029,0
+            119.668604,24.035305,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_069</name>
+        <description><![CDATA[說明: <br>Id: 69]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>69</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.963159,24.034716,0
+            119.668958,24.038891,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_068</name>
+        <description><![CDATA[說明: <br>Id: 68]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>68</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.338542,24.024614,0
+            120.280765,24.025727,0
+            120.24953,24.025682,0
+            120.235601,24.02657,0
+            120.22095,24.027226,0
+            120.179823,24.028054,0
+            120.163189,24.027993,0
+            120.147364,24.029216,0
+            120.134859,24.029691,0
+            120.10764,24.032431,0
+            120.022033,24.039762,0
+            119.957212,24.0465,0
+            119.673204,24.043228,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_067</name>
+        <description><![CDATA[說明: <br>Id: 67]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>67</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.341224,24.034301,0
+            120.270369,24.034776,0
+            120.228802,24.036671,0
+            120.187485,24.037143,0
+            120.154321,24.037773,0
+            120.096164,24.039859,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_065</name>
+        <description><![CDATA[說明: <br>Id: 65]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>65</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.341937,24.047563,0
+            120.294816,24.047659,0
+            120.252655,24.048271,0
+            120.210632,24.048514,0
+            120.119519,24.047878,0
+            119.963391,24.054425,0
+            119.883755,24.058523,0
+            119.753374,24.063966,0
+            119.638599,24.069079,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_066</name>
+        <description><![CDATA[說明: <br>Id: 66]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>66</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.971625,24.049465,0
+            119.849083,24.052175,0
+            119.773369,24.054095,0
+            119.653167,24.056668,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_064</name>
+        <description><![CDATA[說明: <br>Id: 64]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>64</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.345801,24.055104,0
+            120.284292,24.055957,0
+            120.18759,24.058391,0
+            120.127803,24.058377,0
+            120.036682,24.063504,0
+            119.96993,24.066294,0
+            119.785662,24.074617,0
+            119.727094,24.077724,0
+            119.623631,24.082202,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_063</name>
+        <description><![CDATA[說明: <br>Id: 63]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>63</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.353386,24.061639,0
+            120.305373,24.064133,0
+            120.213618,24.06813,0
+            120.138556,24.072001,0
+            119.941016,24.081784,0
+            119.601537,24.096553,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_062</name>
+        <description><![CDATA[說明: <br>Id: 62]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>62</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.361237,24.065857,0
+            120.271763,24.072578,0
+            120.22167,24.077675,0
+            120.147418,24.083227,0
+            120.056978,24.08863,0
+            119.895312,24.096676,0
+            119.75976,24.102483,0
+            119.603054,24.109499,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_061</name>
+        <description><![CDATA[說明: <br>Id: 61]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>61</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.369083,24.071215,0
+            120.160205,24.099421,0
+            120.066019,24.098956,0
+            119.994307,24.101925,0
+            119.603373,24.11825,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_060</name>
+        <description><![CDATA[說明: <br>Id: 60]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>60</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.372756,24.082643,0
+            120.159577,24.113574,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_059</name>
+        <description><![CDATA[說明: <br>Id: 59]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>59</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.376025,24.092167,0
+            120.250644,24.112002,0
+            120.190484,24.121812,0
+            120.178449,24.122517,0
+            120.080386,24.118063,0
+            120.002903,24.115675,0
+            119.908394,24.117692,0
+            119.802264,24.121461,0
+            119.706918,24.124107,0
+            119.604977,24.123209,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_058</name>
+        <description><![CDATA[說明: <br>Id: 58]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>58</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.023963,24.125701,0
+            119.94146,24.128575,0
+            119.85357,24.130984,0
+            119.797599,24.132835,0
+            119.725871,24.135297,0
+            119.601488,24.139152,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_057</name>
+        <description><![CDATA[說明: <br>Id: 57]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>57</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.053745,24.133877,0
+            120.014361,24.134769,0
+            119.975384,24.136414,0
+            119.923131,24.139478,0
+            119.871699,24.143291,0
+            119.757695,24.144688,0
+            119.627516,24.146996,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_056</name>
+        <description><![CDATA[說明: <br>Id: 56]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>56</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.398989,24.143995,0
+            120.279909,24.14866,0
+            120.252615,24.150196,0
+            120.194568,24.151423,0
+            120.102952,24.150912,0
+            120.024181,24.151569,0
+            119.932956,24.154382,0
+            119.825967,24.158161,0
+            119.732251,24.160834,0
+            119.629817,24.164513,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_055</name>
+        <description><![CDATA[說明: <br>Id: 55]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>55</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.069305,24.16022,0
+            119.886416,24.166983,0
+            119.772787,24.170295,0
+            119.659148,24.174282,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_054</name>
+        <description><![CDATA[說明: <br>Id: 54]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>54</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.383454,24.098284,0
+            120.272427,24.121645,0
+            120.229166,24.129693,0
+            120.201676,24.136223,0
+            120.191137,24.138574,0
+            120.037321,24.16839,0
+            119.910407,24.173622,0
+            119.826204,24.177562,0
+            119.76938,24.179776,0
+            119.667751,24.184247,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_053</name>
+        <description><![CDATA[說明: <br>Id: 53]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>53</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.386737,24.105144,0
+            120.288811,24.125846,0
+            120.235278,24.137178,0
+            120.195857,24.14458,0
+            120.167207,24.151276,0
+            120.112403,24.16314,0
+            120.041404,24.176784,0
+            119.897473,24.183039,0
+            119.80165,24.187261,0
+            119.672217,24.193415,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_052</name>
+        <description><![CDATA[說明: <br>Id: 52]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>52</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.387522,24.114277,0
+            120.329988,24.127272,0
+            120.272464,24.139336,0
+            120.21389,24.151947,0
+            120.120627,24.173077,0
+            120.048783,24.188242,0
+            119.957943,24.191452,0
+            119.850505,24.195625,0
+            119.759245,24.198713,0
+            119.670859,24.204433,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_051</name>
+        <description><![CDATA[說明: <br>Id: 51]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>51</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.39368,24.126856,0
+            120.315094,24.142897,0
+            120.264535,24.152977,0
+            120.251336,24.156839,0
+            120.236381,24.158523,0
+            120.222203,24.162646,0
+            120.211278,24.164203,0
+            120.125957,24.181857,0
+            120.053703,24.195881,0
+            119.695235,24.213392,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_050</name>
+        <description><![CDATA[說明: <br>Id: 50]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>50</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.407211,24.158864,0
+            120.352439,24.162306,0
+            120.276088,24.167183,0
+            120.22843,24.170658,0
+            120.216754,24.171167,0
+            120.132118,24.190642,0
+            120.059856,24.205048,0
+            119.701382,24.220672,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_049</name>
+        <description><![CDATA[說明: <br>Id: 49]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>49</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.415862,24.17107,0
+            120.224136,24.180557,0
+            120.142413,24.201351,0
+            120.103361,24.211017,0
+            120.028272,24.213599,0
+            119.923297,24.218599,0
+            119.868936,24.221628,0
+            119.707115,24.227947,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_048</name>
+        <description><![CDATA[說明: <br>Id: 48]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>48</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.073855,24.219209,0
+            119.712023,24.234836,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_047</name>
+        <description><![CDATA[說明: <br>Id: 47]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>47</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.42452,24.182135,0
+            120.310738,24.187249,0
+            120.232446,24.191124,0
+            120.146502,24.210123,0
+            120.072146,24.226045,0
+            119.721494,24.241762,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_046</name>
+        <description><![CDATA[說明: <br>Id: 46]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>46</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.42366,24.18898,0
+            120.238904,24.199334,0
+            120.074179,24.231764,0
+            119.737192,24.248359,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_045</name>
+        <description><![CDATA[說明: <br>Id: 45]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>45</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.431066,24.202322,0
+            120.249093,24.212285,0
+            120.123074,24.239661,0
+            120.045907,24.240338,0
+            119.992783,24.243419,0
+            119.938836,24.245335,0
+            119.743358,24.254116,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_044</name>
+        <description><![CDATA[說明: <br>Id: 44]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>44</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.440882,24.233933,0
+            120.17075,24.244493,0
+            119.980689,24.251327,0
+            119.746602,24.26175,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_043</name>
+        <description><![CDATA[說明: <br>Id: 43]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>43</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.445,24.240795,0
+            120.176927,24.251754,0
+            119.753158,24.270172,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_016</name>
+        <description><![CDATA[說明: <br>Id: 16]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>16</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.918914,23.900563,0
+            120.190106,24.267041,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_017</name>
+        <description><![CDATA[說明: <br>Id: 17]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>17</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.874767,23.934102,0
+            120.089291,24.264949,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_018</name>
+        <description><![CDATA[說明: <br>Id: 18]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>18</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.862706,23.94086,0
+            120.076439,24.26335,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_019</name>
+        <description><![CDATA[說明: <br>Id: 19]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>19</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.849853,23.943427,0
+            120.063151,24.26479,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_020</name>
+        <description><![CDATA[說明: <br>Id: 20]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>20</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.840694,23.949444,0
+            120.050693,24.266234,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_021</name>
+        <description><![CDATA[說明: <br>Id: 21]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>21</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.827013,23.952003,0
+            120.036995,24.266909,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_022</name>
+        <description><![CDATA[說明: <br>Id: 22]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>22</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.815428,23.951534,0
+            120.023721,24.266444,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_023</name>
+        <description><![CDATA[說明: <br>Id: 23]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>23</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.808162,23.964519,0
+            120.005883,24.265948,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_024</name>
+        <description><![CDATA[說明: <br>Id: 24]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>24</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.795414,23.967354,0
+            119.917627,24.154928,0
+            119.993833,24.268151,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_025</name>
+        <description><![CDATA[說明: <br>Id: 25]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>25</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.7825,23.976001,0
+            119.861378,24.098141,0
+            119.916196,24.182233,0
+            119.97557,24.26879,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_026</name>
+        <description><![CDATA[說明: <br>Id: 26]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>26</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.765903,23.980052,0
+            119.906118,24.193474,0
+            119.956076,24.267897,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_027</name>
+        <description><![CDATA[說明: <br>Id: 27]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>27</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.75802,23.981891,0
+            119.862151,24.143411,0
+            119.920291,24.232951,0
+            119.94361,24.270093,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_028</name>
+        <description><![CDATA[說明: <br>Id: 28]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>28</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.746377,23.987121,0
+            119.8725,24.184145,0
+            119.927837,24.270743,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_029</name>
+        <description><![CDATA[說明: <br>Id: 29]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>29</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.736372,23.994266,0
+            119.853534,24.176288,0
+            119.913737,24.269882,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_030</name>
+        <description><![CDATA[說明: <br>Id: 30]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>30</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.728868,23.999529,0
+            119.850505,24.195625,0
+            119.899221,24.269017,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_031</name>
+        <description><![CDATA[說明: <br>Id: 31]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>31</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.713944,24.001307,0
+            119.797599,24.132835,0
+            119.844939,24.206183,0
+            119.885935,24.270061,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_032</name>
+        <description><![CDATA[說明: <br>Id: 32]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>32</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.699393,24.00727,0
+            119.809964,24.178197,0
+            119.872621,24.274147,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_033</name>
+        <description><![CDATA[說明: <br>Id: 33]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>33</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.683614,24.0117,0
+            119.796662,24.178716,0
+            119.860605,24.272156,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_034</name>
+        <description><![CDATA[說明: <br>Id: 34]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>34</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.675642,24.021901,0
+            119.757695,24.144688,0
+            119.823513,24.237273,0
+            119.841164,24.266445,0
+            119.843166,24.273546,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_035</name>
+        <description><![CDATA[說明: <br>Id: 35]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>35</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.835282,24.273485,0
+            119.739899,24.134818,0
+            119.679108,24.047415,0
+            119.677341,24.043279,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_036</name>
+        <description><![CDATA[說明: <br>Id: 36]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>36</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.667473,24.048558,0
+            119.734735,24.145103,0
+            119.778298,24.20941,0
+            119.823045,24.273057,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_037</name>
+        <description><![CDATA[說明: <br>Id: 37]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>37</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.660097,24.056522,0
+            119.814006,24.278361,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_038</name>
+        <description><![CDATA[說明: <br>Id: 38]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>38</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.651321,24.063465,0
+            119.798807,24.273584,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_039</name>
+        <description><![CDATA[說明: <br>Id: 39]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>39</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.64271,24.068898,0
+            119.785879,24.276706,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_040</name>
+        <description><![CDATA[說明: <br>Id: 40]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>40</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.633623,24.076565,0
+            119.770643,24.275867,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_041</name>
+        <description><![CDATA[說明: <br>Id: 41]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>41</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.619144,24.080376,0
+            119.729381,24.241417,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_042</name>
+        <description><![CDATA[說明: <br>Id: 42]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>42</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            119.610068,24.089609,0
+            119.691586,24.20964,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S_05</name>
+        <description><![CDATA[說明: <br>Id: 0]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>0</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.221046,23.924596,0
+            120.30756,23.912598,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S_01</name>
+        <description><![CDATA[說明: <br>Id: 0]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>0</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.235014,23.941124,0
+            120.3105,23.917001,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S_02</name>
+        <description><![CDATA[說明: <br>Id: 0]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>0</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.233157,23.93722,0
+            120.308574,23.915901,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S_03</name>
+        <description><![CDATA[說明: <br>Id: 0]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>0</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.226873,23.932831,0
+            120.308582,23.914348,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S_04</name>
+        <description><![CDATA[說明: <br>Id: 0]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>0</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.223909,23.928755,0
+            120.307407,23.913487,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N_03</name>
+        <description><![CDATA[說明: <br>Id: 0]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>0</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.326414,24.096952,0
+            120.391982,24.107606,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N_02</name>
+        <description><![CDATA[說明: <br>Id: 0]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>0</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.330173,24.102813,0
+            120.393325,24.109905,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N_01</name>
+        <description><![CDATA[說明: <br>Id: 0]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>0</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.334647,24.108565,0
+            120.395292,24.11211,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SPK_075</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/ph7G0DbbataHT56bPAbysAc6dOk56OKq5Ul8eCbSAeVmX1oANdoOiGw2YwQCe_fUEZXb2t3HbVWsESKtvAxrPHbdo97xK9ZkJ4NhPzM4qQOxo_lGvGIJcPvbXweRaKTorwfbwA" height="200" width="auto" /><br><br>說明: <br>Id: 75]]></description>
+        <styleUrl>#line-FF0000-1000</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="Id">
+            <value>75</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/ph7G0DbbataHT56bPAbysAc6dOk56OKq5Ul8eCbSAeVmX1oANdoOiGw2YwQCe_fUEZXb2t3HbVWsESKtvAxrPHbdo97xK9ZkJ4NhPzM4qQOxo_lGvGIJcPvbXweRaKTorwfbwA</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.251554,23.931377,0
+            120.149264,23.958087,0
+            119.776082,23.980657,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
